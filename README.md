@@ -1,6 +1,6 @@
 # ENGODATABASE
 
-This is easy to use database system. 
+This is easy to use C database system. 
 
 Download it with `git  clone https://github.com/ENGO150/EngoDatabase.git` and it's ready!
 
